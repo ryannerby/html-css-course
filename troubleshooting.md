@@ -1,7 +1,7 @@
 ## Troubleshooting
-### Google Fonts - Roboto Font
+### Google Fonts Roboto Font
 Google Fonts has changed their UI.
-To load Roboto, copy-paste this code into your `<head>` element:
+To load the Roboto font, copy-paste this code into your `<head>` element:
 ```html
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
